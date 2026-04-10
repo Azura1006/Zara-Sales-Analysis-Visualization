@@ -10,7 +10,6 @@ This project analyzes Zara sales data using Python and presents insights through
 * Python (Pandas, Matplotlib, Plotly)
 * Streamlit (for interactive app)
 
----
 
 ## 💻 Streamlit App
 
